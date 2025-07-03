@@ -1,0 +1,49 @@
+Cyber Security Internship - Task 7: Browser Extension Review Report
+
+Date: July 3, 2025
+
+Objective:
+To identify and remove potentially harmful browser extensions as per Task 7 of the Cyber Security Internship.
+
+Browser Used:
+Google Chrome
+
+Steps Taken:
+1.  Opened Google Chrome.
+2.  Navigated to the browser's extension management page by clicking on the puzzle piece icon in the toolbar and then "Manage extensions" (or directly by typing chrome://extensions/ in the address bar).
+3.  Carefully reviewed all installed extensions.
+    * GoFullPage - Full Page Screen Capture
+    * Google Docs Offline
+    * McAfee® WebAdvisor
+4.  Checked the permissions for each extension.
+    * GoFullPage - Full Page Screen Capture: This extension is designed to capture full web pages. Its permissions are expected to relate to reading and changing data on websites to perform its function. No immediately suspicious permissions were noted for its stated purpose.
+    * Google Docs Offline: This is an official Google extension to allow offline access to Google Docs. Its permissions are related to managing your documents and accessing data in Google Drive. This is expected for its functionality.
+    * McAfee® WebAdvisor: This is a security extension from McAfee, designed to provide website safety ratings and warnings. Its permissions are expected to involve reading Browse history and website content to assess security risks.
+5.  No unused or suspicious extensions were identified based on their stated purpose and common knowledge of these applications.
+6.  As no suspicious or unnecessary extensions were identified, no extensions were removed.
+7.  Browser performance was already satisfactory; no performance improvements were noted as no changes were made.
+
+Findings:
+No suspicious or potentially harmful browser extensions were found installed in Google Chrome during this review. All installed extensions appear to be legitimate and serve their intended functions.
+
+Outcome:
+Successfully completed the review process for identifying and managing browser extensions, demonstrating awareness of browser security risks.
+
+Research on How Malicious Extensions Can Harm Users and Examples: 
+
+Browser extensions can pose significant security risks by having extensive permissions to access and manipulate browser data and user activities. Malicious extensions can harm users in several ways:
+
+Data Theft: They can steal sensitive information like Browse history, cookies, form data (including usernames and passwords,
+ if they have the necessary permissions), and even financial details by injecting malicious scripts into visited websites. 
+
+Adware and Pop-ups: Injecting unwanted advertisements, pop-ups, or redirecting users to malicious websites, leading to a degraded Browse experience and potential exposure to further threats.
+
+Malware Distribution: Downloading and installing other malicious software onto the user's system without their knowledge or consent.
+
+Tracking and Spying: Monitoring user online activities, collecting personal data, and sending it to third parties for various purposes, including targeted advertising or surveillance.
+
+Browser Hijacking: Changing browser settings (e.g., homepage, default search engine) without permission, making it difficult for users to revert to their preferred settings.
+
+Cryptojacking: Using the user's computer resources (CPU) to mine cryptocurrency in the background, slowing down the system significantly.
+
+
